@@ -133,10 +133,3 @@ python parallel_review_scraper.py
    - 檢查網路連線
    - 調整延遲時間
 
-## 授權
-
-MIT License
-
-## 貢獻指南
-
-歡迎提交 Issue 和 Pull Request 來改善專案。
